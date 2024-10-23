@@ -1,7 +1,7 @@
 {
 	"name": "gleba-name-fix",
 	"version": "0.0.1",
-	"title": "星球名称修复",
+	"title": "中文星球名称修复",
 	"author": "Cyl18",
 	"homepage": "https://github.com/Cyl18/gleba-name-fix",
 	"description": "将星球名称替换为原版英文！",
